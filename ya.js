@@ -6,7 +6,7 @@
 (function() {
     // Настройки
     const YOUR_WALLET = "410011808980751";  // Ваш кошелек ЮMoney
-    const MIN_AMOUNT = 6000;                 // Минимальная сумма для оплаты
+    const MIN_AMOUNT = 4000;                 // Минимальная сумма для оплаты
     
     // Функция получения суммы корзины
     function getCartTotal() {
